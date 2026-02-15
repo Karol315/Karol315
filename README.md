@@ -34,20 +34,17 @@
 I am a student at Warsaw University of Technology, passionate about Machine Learning and data analysis. My main focus lies in analyzing the operation of intelligent agents (LLMs), exploring the interpretability of ML models, and building backend logic for web applications.
 
 * **Education:** Warsaw University of Technology
-* **Main Interests:** Machine Learning, Web Development, LLM Agents Analysis
+* **Main Interests:** Machine Learning, ML & LLM Behavior Analysis
 
 ### Selected Projects
 * **[hotel-llm-agent](https://github.com/Karol315/hotel-llm-agent)**
   Project completed as part of the Interpretability and Explainability of Machine Learning course. It focuses on researching and deploying agents based on large language models.
 
-* **[CarRentingService](https://github.com/Karol315/CarRentingService)**
-  A web application built in Python for the Web Applications Development course. A demonstration project handling the backend logic of a car rental service.
+* **[Interpretability_of_machine_learning_project](https://github.com/Karol315/Interpretability_of_machine_learning_project)**
+  A project dedicated to exploring and implementing techniques for making Machine Learning models interpretable and their predictions explainable.
 
 * **[MI_project_clasterization](https://github.com/Karol315/MI_project_clasterization)** & **[SeedClassifier](https://github.com/Karol315/SeedClassifier)**
   Machine Learning projects (clustering and classification) prepared during the Introduction to Machine Learning course, utilizing Jupyter Notebook environments.
-
-* **[Football_Api_Project](https://github.com/Karol315/Football_Api_Project)**
-  A Java-based application designed to integrate and process data from an external football API.
 
 ---
 
@@ -55,17 +52,14 @@ I am a student at Warsaw University of Technology, passionate about Machine Lear
 Jestem studentem Politechniki Warszawskiej, pasjonującym się uczeniem maszynowym oraz analizą danych. Skupiam się na analizie działania inteligentnych agentów (LLM), interpretowalności modeli ML oraz budowaniu logiki aplikacji webowych.
 
 * **Edukacja:** Politechnika Warszawska
-* **Główne obszary zainteresowań:** Machine Learning, Web Development, Analiza LLM
+* **Główne obszary zainteresowań:** Machine Learning, Analiza działań modeli ML i LLM
 
 ### Wybrane Projekty
 * **[hotel-llm-agent](https://github.com/Karol315/hotel-llm-agent)**
   Projekt zrealizowany w ramach kursu Interpretability and Explainability of Machine Learning. Skupia się na badaniu i wdrażaniu agentów bazujących na dużych modelach językowych.
 
-* **[CarRentingService](https://github.com/Karol315/CarRentingService)**
-  Aplikacja webowa stworzona w Pythonie w ramach kursu Web Applications Development. Projekt demonstracyjny obsługujący logikę wypożyczalni samochodów.
+* **[Interpretability_of_machine_learning_project](https://github.com/Karol315/Interpretability_of_machine_learning_project)**
+  Projekt poświęcony badaniu i wdrażaniu technik ułatwiających zrozumienie działania modeli uczenia maszynowego oraz wyjaśnianie ich przewidywań.
 
 * **[MI_project_clasterization](https://github.com/Karol315/MI_project_clasterization)** & **[SeedClassifier](https://github.com/Karol315/SeedClassifier)**
   Projekty z zakresu uczenia maszynowego (klasteryzacja oraz klasyfikacja) przygotowane podczas kursu Introduction to Machine Learning. Wykorzystują środowisko Jupyter Notebook.
-
-* **[Football_Api_Project](https://github.com/Karol315/Football_Api_Project)**
-  Aplikacja napisana w Javie, której celem jest integracja i przetwarzanie danych pochodzących z zewnętrznego API piłkarskiego.
